@@ -1,0 +1,11 @@
+{
+  "name": "A-OS v1.2.1",
+  "description": "A-OS web operating system with A-Applications, Web Window, Camera, MediaView, File Assist, and local workspace tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
